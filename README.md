@@ -72,4 +72,4 @@ Error: Undefined symbol crypto_kem_*
 Error: _mexFunction missing
 → Add -R2018a in the build flags (MATLAB R2025a uses the modern C++ MEX API).
 Final Word
-This setup has been validated on macOS (Sequoia) + MATLAB R2025a and is portable to Windows 11 + MATLAB R2025a with MSVC. Once built, the API behaves the same across platforms
+This setup has been validated on macOS (Sequoia) + MATLAB R2025a and is portable to Windows 11 + MATLAB R2025a with MSVC. Once built, the API behaves the same across platforms.
